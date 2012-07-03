@@ -1,3 +1,4 @@
+# encoding:utf-8
 maintainer       "Emre Can Yılmaz"
 maintainer_email "ecylmz@bil.omu.edu.tr"
 license          "All rights reserved"
